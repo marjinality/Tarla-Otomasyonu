@@ -1,6 +1,3 @@
 # Tarla-Otomasyonu
-http://docdro.id/DEcbsw5  - "TarlaX Projesi tanıtım dökümanı"
-
-https://i.hizliresim.com/RnpzdG.jpg " Marjinality" ekibi "Tarla Otomasyonu" Veri tabanı ilişkiler tablosu.
-
+http://docdro.id/EVsh9Im - "TarlaX Projesi Rapor 19.03.2018."
 www.tarlax.com - "TarlaX Web Sitesi"
